@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Lib_SalamKeshavarz",
+      "appliesTo": "Lib_SalamKeshavarz/",
+      "type": "launch"
+    }
+  ]
+}
